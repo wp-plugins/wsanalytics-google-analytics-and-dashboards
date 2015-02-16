@@ -1,4 +1,4 @@
-=== WSAnalytics - Google Analytics And Dashboards ===
+﻿=== WSAnalytics - Google Analytics And Dashboards ===
 Contributors: Shiva
 Donate link: http://wsofi.com/WSAnalytics
 Tags:Google analytics for wordpress, google analytics, WordPress Analytics, dashboard, analytics, google analytics dashboard, install analytics, WSAnalytics, yoast, analyticator, tracking, stats,Google analytics ecommerce tracking, Google analytics Dashboard,
@@ -88,6 +88,8 @@ WSAnalytics Google Analytics uses Google API to fetch all your Google Analytics 
 
 = 0.0.1 - 2015-02-09 =
 * Initial Release.
+= 0.0.2 - 2015-02-15 =
+* Minor BUG-FIX.
 
  == Upgrade Notice == 
 
