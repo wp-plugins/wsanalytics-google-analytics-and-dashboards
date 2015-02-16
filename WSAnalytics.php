@@ -21,7 +21,7 @@ if ( !class_exists( 'WS_Analytics' ) ) {
 
     if ( !class_exists( 'Analytics_normal' ) ){
             
-        require_once WP_PLUGIN_DIR .'/WSAnalytics/WSAnalytics-general.php';
+        require_once WP_PLUGIN_DIR .'/wsanalytics-google-analytics-and-dashboards/WSAnalytics-general.php';
     }
 
 class WS_Analytics extends Analytics_normal{
