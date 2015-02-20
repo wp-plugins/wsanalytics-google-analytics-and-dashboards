@@ -125,7 +125,7 @@ if ( isset( $_POST[ 'save_settings_admin' ] ) ) {
 ?>
 
 <div class="wrap">
-	<h2 class='opt-title'><span id='icon-options-general' class='analytics-options'><img src="<?php echo plugins_url('WSAnalytics/images/wp-analytics-logo.png');?>" alt=""></span>
+	<h2 class='opt-title'><span id='icon-options-general' class='analytics-options'><img src="<?php echo plugins_url('wsanalytics-google-analytics-and-dashboards/images/wp-analytics-logo.png');?>" alt=""></span>
 		<?php echo __( 'WSAnalytics Settings', 'wp-WSAnalytics'); ?>
 	</h2>
 

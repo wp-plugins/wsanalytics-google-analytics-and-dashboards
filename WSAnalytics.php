@@ -3,7 +3,7 @@
 * Plugin Name: WSAnalytics - Google Analytics And Dashboards
 * Plugin URI: http://wsofi.com/
 * Description: Google API Based plugin for Google Analytics implementation, Creates Dashboards inside admin area, Does Installation of Google Analytics and more. You can share with your team, authors, and with your sales team with all or limited control.
-* Version: 0.0.1
+* Version: 0.0.3
 * Author: WSofi
 * Author URI: http://wsofi.com/
 * License: GPLv2+
