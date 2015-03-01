@@ -13,6 +13,7 @@
  * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
  * License for the specific language governing permissions and limitations under
  * the License.
+ * 
  */
 
 /**
@@ -136,7 +137,7 @@ class WSAnalytics_Google_Service_Analytics extends WSAnalytics_Google_Service
                   'location' => 'query',
                   'type' => 'string',
                 ),
-                'output' => array(
+				  'output' => array(
                   'location' => 'query',
                   'type' => 'string',
                 ),

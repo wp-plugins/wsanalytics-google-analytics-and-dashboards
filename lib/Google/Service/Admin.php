@@ -13,6 +13,7 @@
  * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
  * License for the specific language governing permissions and limitations under
  * the License.
+ * 
  */
 
 /**
@@ -79,6 +80,7 @@ class WSAnalytics_Google_Service_Admin extends WSAnalytics_Google_Service
  *  <code>
  *   $adminService = new WSAnalytics_Google_Service_Admin(...);
  *   $mail = $adminService->mail;
+ * 
  *  </code>
  */
 class WSAnalytics_Google_Service_Admin_Mail_Resource extends WSAnalytics_Google_Service_Resource

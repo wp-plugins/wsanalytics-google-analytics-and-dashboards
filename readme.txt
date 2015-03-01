@@ -1,10 +1,10 @@
 ﻿=== WSAnalytics - Google Analytics And Dashboards ===
 Contributors: Shiva
 Donate link: http://wsofi.com/WSAnalytics
-Tags:Google analytics for wordpress, google analytics, WordPress Analytics, dashboard, analytics, google analytics dashboard, install analytics, WSAnalytics, yoast, analyticator, tracking, stats,Google analytics ecommerce tracking, Google analytics Dashboard,
+Tags:Google analytics for wordpress, google analytics, WordPress Analytics, dashboard, analytics, google analytics dashboard, install analytics, WSAnalytics, yoast, analyticator, tracking, stats,Google analytics ecommerce tracking, Google analytics Dashboard,, Analytics Woocommerce Tracking 
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 0.0.3
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -90,8 +90,25 @@ WSAnalytics Google Analytics uses Google API to fetch all your Google Analytics 
 * Initial Release.
 = 0.0.2 - 2015-02-15 =
 * Minor BUG-FIX.
-= 0.0.2 - 2015-02-16 =
+= 0.0.3 - 2015-02-16 =
 * Minor BUG-FIX.
+= 0.0.4 - 2015-02-17 =
+* Minor BUG-FIX Internal .
+= 0.0.5 - 2015-02-17 =
+* Minor BUG-FIX Internal.
+= 0.1.0 - 2015-02-18 =
+* Minor BUG-FIX Internal.
+= 0.1.1 - 2015-02-18 =
+* Minor BUG-FIX Internal.
+= 0.1.2 - 2015-02-18 =
+* Minor BUG-FIX Internal.
+= 0.1.3 - 2015-02-18 =
+* Minor BUG-FIX Internal.
+= 0.1.4 - 2015-02-18 =
+* Minor BUG-FIX Internal.
+= 1.1.0 - 2015-02-19 =
+* Release of Major Version With Google PHP API
+
 
  == Upgrade Notice == 
 
