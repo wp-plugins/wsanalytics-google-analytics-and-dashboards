@@ -1,10 +1,10 @@
 ﻿=== WSAnalytics - Google Analytics And Dashboards ===
-Contributors: Shalintripathi
+Contributors: shalintripathi
 Donate link: http://wsofi.com/WSAnalytics
 Tags:Google analytics for wordpress, google analytics, WordPress Analytics, dashboard, analytics, google analytics dashboard, install analytics, WSAnalytics, yoast, analyticator, tracking, stats,Google analytics ecommerce tracking, Google analytics Dashboard,, Analytics Woocommerce Tracking 
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 1.1.2
+Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
