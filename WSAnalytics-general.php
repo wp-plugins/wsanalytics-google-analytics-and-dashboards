@@ -10,7 +10,7 @@
     define( 'WSAnalytics_ID', 'wp-WSAnalytics-options' );
     define( 'WSAnalytics_NICK', 'WSAnalytics' );
     define( 'WSAnalytics_ROOT_PATH', dirname(__FILE__) );
-    define( 'WSAnalytics_VERSION', '1.1.0');
+    define( 'WSAnalytics_VERSION', '1.1.1');
     define( 'WSAnalytics_TYPE', 'FREE');
     define( 'WSAnalytics_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 
