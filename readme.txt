@@ -4,11 +4,11 @@ Donate link: http://wsofi.com/WSAnalytics
 Tags:Google analytics for wordpress, google analytics, WordPress Analytics, dashboard, analytics, google analytics dashboard, install analytics, WSAnalytics, yoast, analyticator, tracking, stats,Google analytics ecommerce tracking, Google analytics Dashboard,, Analytics Woocommerce Tracking 
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Google API Based plugin for All Google Analytics implementation, Creates Dashboards inside admin area, Does Installation of Google Analytics and more.
+Google API Based WordPress Plugin for Analytics implementation and Dashboards, See Live, Post/Page and other Stats inside admin area.
 
 == Description ==
 
@@ -110,7 +110,8 @@ WSAnalytics Google Analytics uses Google API to fetch all your Google Analytics 
 * Release of Major Version With Google PHP API
 = 1.1.1 - 2015-03-1 =
 * Graphics improvements 
-
+= 1.1.2 - 2015-03-1 =
+* Graphics improvements 
 
  == Upgrade Notice == 
 
